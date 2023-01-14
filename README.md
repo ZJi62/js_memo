@@ -2,7 +2,7 @@
 
 ## JS tutorial
 
-[JS란?](https://github.com/euni62/js_memo/blob/master/what_is_js.md)
+[JS란?](https://github.com/euni62/js_memo/blob/master/%08what_is_js.md)
 
 ## JS에서 필요한 부분만 메모
 
